@@ -1,0 +1,15 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "items/iron_axe"
+    },
+    "overrides": [
+        {"predicate": {"damage": 0.0039},"model": "item/Machine/CogL"},
+        {"predicate": {"damage": 0.0079},"model": "item/Machine/Nox"},
+        {"predicate": {"damage": 0.011},"model": "item/Machine/Hammer"},
+        {"predicate": {"damage": 0.015},"model": "item/Machine/Box"},
+        {"predicate": {"damage": 0.019},"model": "item/Machine/SkeleHead"},
+        {"predicate": {"damage": 0.023},"model": "item/Machine/SkeleBody"}
+		
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "items/gold_sword"
+    },
+    "overrides": [
+        {"predicate": {"damage": 0.03125},"model": "item/Barney/Normal"},
+        {"predicate": {"damage": 0.0625},"model": "item/Barney/Talk"},
+        {"predicate": {"damage": 0.09375},"model": "item/Barney/Crying"},
+        {"predicate": {"damage": 0.125},"model": "item/Barney/Laugh"},              
+		{"predicate": {"damage": 0.15625},"model": "item/Barney/HelPatNormal"},
+        {"predicate": {"damage": 0.1875},"model": "item/Barney/HelPatTalk"},
+        {"predicate": {"damage": 0.21875},"model": "item/Barney/HelPatCrying"},
+        {"predicate": {"damage": 0.25},"model": "item/Barney/HelPatLaugh"},        
+		{"predicate": {"damage": 0.28125},"model": "item/Barney/HelNoxNormal"},
+        {"predicate": {"damage": 0.3125},"model": "item/Barney/HelNoxTalk"},
+        {"predicate": {"damage": 0.34375},"model": "item/Barney/HelNoxCrying"},
+        {"predicate": {"damage": 0.375},"model": "item/Barney/HelNoxLaugh"},
+		{"predicate": {"damage": 0.40625},"model": "item/Barney/HelNormNormal"},
+		{"predicate": {"damage": 0.4375},"model": "item/Barney/HelNormTalk"},
+		{"predicate": {"damage": 0.46875},"model": "item/Barney/HelNormCrying"},
+		{"predicate": {"damage": 0.5},"model": "item/Barney/HelNormLaugh"},
+		{"predicate": {"damage": 1.001},"model": "item/Barney/Talk"},
+		{"predicate": {"damage": 1.03125},"model": "item/Barney/Talk"}
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "variants": {
+        "facing=east,half=bottom,shape=straight": [ 
+         { "model": "sandstone_stairs1", "y": 90, "uvlock": false},
+         { "model": "sandstone_stairs2", "y": 90, "uvlock": false},
+         { "model": "sandstone_stairs3", "y": 90, "uvlock": false}
+         ],
+        "facing=west,half=bottom,shape=straight": [
+         { "model": "sandstone_stairs1", "y": 270, "uvlock": false },
+         { "model": "sandstone_stairs2", "y": 270, "uvlock": false },
+         { "model": "sandstone_stairs3", "y": 270, "uvlock": false }
+         ],
+        "facing=south,half=bottom,shape=straight": [
+         { "model": "sandstone_stairs1", "y": 180, "uvlock": false },
+         { "model": "sandstone_stairs2", "y": 180, "uvlock": false },
+         { "model": "sandstone_stairs3", "y": 180, "uvlock": false }
+         ],
+        "facing=north,half=bottom,shape=straight": [
+        { "model": "sandstone_stairs1", "y": 0, "uvlock": false },
+        { "model": "sandstone_stairs2", "y": 0, "uvlock": false },
+        { "model": "sandstone_stairs3", "y": 0, "uvlock": false }
+        ],
+        "facing=east,half=bottom,shape=outer1_right": [
+          { "model": "sandstone_outer_stairs1" },
+          { "model": "sandstone_outer_stairs2" },
+          { "model": "sandstone_outer_stairs3" }
+          ],
+        "facing=west,half=bottom,shape=outer_right": [
+          { "model": "sandstone_outer_stairs1", "y": 180, "uvlock": true },
+          { "model": "sandstone_outer_stairs2", "y": 180, "uvlock": true },
+          { "model": "sandstone_outer_stairs3", "y": 180, "uvlock": true }
+          ],
+        "facing=south,half=bottom,shape=outer_right": [
+         { "model": "sandstone_outer_stairs1", "y": 90, "uvlock": true },
+         { "model": "sandstone_outer_stairs2", "y": 90, "uvlock": true },
+         { "model": "sandstone_outer_stairs3", "y": 90, "uvlock": true }
+         ],
+        "facing=north,half=bottom,shape=outer_right": [
+         { "model": "sandstone_outer_stairs1", "y": 270, "uvlock": true },
+         { "model": "sandstone_outer_stairs2", "y": 270, "uvlock": true },
+         { "model": "sandstone_outer_stairs3", "y": 270, "uvlock": true }
+         ],
+        "facing=east,half=bottom,shape=outer_left": [
+         { "model": "sandstone_outer_stairs1", "y": 270, "uvlock": true },
+         { "model": "sandstone_outer_stairs2", "y": 270, "uvlock": true },
+         { "model": "sandstone_outer_stairs3", "y": 270, "uvlock": true }
+         ],
+        "facing=west,half=bottom,shape=outer_left": [ 
+        { "model": "sandstone_outer_stairs1", "y": 90, "uvlock": true },
+        { "model": "sandstone_outer_stairs2", "y": 90, "uvlock": true },
+        { "model": "sandstone_outer_stairs3", "y": 90, "uvlock": true }
+        ],
+        "facing=south,half=bottom,shape=outer_left": [
+         { "model": "sandstone_outer_stairs1" },
+         { "model": "sandstone_outer_stairs2" },
+         { "model": "sandstone_outer_stairs3" }
+        ],
+        "facing=north,half=bottom,shape=outer_left": [
+        { "model": "sandstone_outer_stairs1", "y": 180, "uvlock": true },
+        { "model": "sandstone_outer_stairs2", "y": 180, "uvlock": true },
+        { "model": "sandstone_outer_stairs3", "y": 180, "uvlock": true }
+        ]
+    }
+}

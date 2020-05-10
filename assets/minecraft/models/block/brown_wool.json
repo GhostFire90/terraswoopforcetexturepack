@@ -1,0 +1,20 @@
+{
+   "textures": {
+   		"particle": "blocks/MAPS Main Banner",
+        "0": "blocks/MAPS Main Banner"
+    },
+    "elements": [
+        {
+            "from": [ -7.0, 0.0, 0.0 ], 
+            "to": [ 23.0, 19.5, 0.0 ], 
+            "faces": {
+                "south": { "texture": "#0", "uv": [ 0.0, 2.0, 16.0, 13.0 ] }
+            }
+        }
+    ],
+    "display": {
+        "head": {
+            "scale":[ 3, 3, 3 ]
+        }
+    }
+}

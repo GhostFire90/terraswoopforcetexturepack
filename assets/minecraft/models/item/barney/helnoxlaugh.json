@@ -1,0 +1,6 @@
+{
+    "parent": "item/Barney/HelNoxBase",
+    "textures": {
+        "Face": "models/armor/Barney/Laugh"
+    }
+}

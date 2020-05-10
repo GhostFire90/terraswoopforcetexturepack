@@ -1,0 +1,29 @@
+{
+
+"textures": {
+    "texture": "items/Shockwave"
+},
+"elements": [ 
+{
+    "from": [ -16, 15, -16 ],
+    "to": [ 32, 16, 32 ],
+    "faces": {
+
+        "down":    { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+
+    }
+}
+],
+"display": {
+    "head": {
+        "rotation": [ 90, 0, 0 ],
+        "translation": [ 0, 0, 100 ],
+        "scale": [ 4, 1, 4 ]
+    },
+	"thirdperson_righthand": {
+        "rotation": [ 90, 0, 0 ],
+        "translation": [ 0, 0, 0 ],
+        "scale": [ 4, 1, 4 ]
+    }
+}
+}

@@ -1,0 +1,19 @@
+{
+"__comment": "Made by @ArsenicShark",
+"elements": [ 
+{
+    "from": [ -15, -3.5, 4 ],
+    "to": [ 31, 16, 5 ],
+    "faces": {
+        "south": { "uv": [ 0, 6.3125, 16, 0 ], "texture": "#Photo" }
+    }
+}
+],
+"display": {
+    "head": {
+        "rotation": [ 0, 90, 180 ],
+        "translation": [ 24.7, -24.1, 0 ],
+        "scale": [ 4, 4, 4 ]
+    }
+}
+}

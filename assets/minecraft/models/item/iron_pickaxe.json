@@ -1,0 +1,15 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "items/iron_pickaxe"
+    },
+    "overrides": [
+        {"predicate": {"damage": 0.0039},"model": "item/Logo/n"},
+        {"predicate": {"damage": 0.0079},"model": "item/Logo/O"},
+        {"predicate": {"damage": 0.011},"model": "item/Logo/X"},
+        {"predicate": {"damage": 0.015},"model": "item/Logo/C"},
+        {"predicate": {"damage": 0.019},"model": "item/Logo/R"},
+        {"predicate": {"damage": 0.023},"model": "item/Logo/E"},
+		{"predicate": {"damage": 0.027},"model": "item/Logo/W"}
+    ]
+}

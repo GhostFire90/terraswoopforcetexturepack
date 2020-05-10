@@ -1,0 +1,6 @@
+{
+    "parent": "item/Photos/base",
+    "textures": {
+        "Photo": "items/Photos/18"
+    }
+}

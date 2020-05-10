@@ -1,0 +1,6 @@
+{
+    "parent": "item/Barney/HelPatBase",
+    "textures": {
+        "Face": "models/armor/Barney/Laugh"
+    }
+}

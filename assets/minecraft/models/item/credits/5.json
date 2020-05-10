@@ -1,0 +1,6 @@
+{
+    "parent": "item/Credits/Base",
+    "textures": {
+        "texture": "items/Credits/5"
+    }
+}

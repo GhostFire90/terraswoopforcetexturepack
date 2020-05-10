@@ -1,0 +1,21 @@
+{
+     "textures": {
+	 	"particle": "blocks/MAPS Social",
+        "1": "blocks/MAPS Social"
+    },
+    "elements": [
+        {
+            "name": "Cube",
+            "from": [ -3.0, 0.0, 1.0 ], 
+            "to": [ 19.0, 21.5, 1.0 ], 
+            "faces": {
+                "south": { "texture": "#1", "uv": [ 0.0, 0.0, 16.0, 16.0 ] }
+            }
+        }
+    ],
+    "display": {
+        "head": {
+             "scale":[ 3, 3, 3 ]
+        }
+    }
+}

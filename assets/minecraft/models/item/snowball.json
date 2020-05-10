@@ -1,0 +1,16 @@
+{
+    "parent": "item/Elevator",
+    "display": {
+        "head": {
+			"rotation":[0,180,0],"translation":[-5.5,-33.75,0],"scale":[1.6,1.6,1.6 ]
+        },
+        "thirdperson_righthand": {
+           "rotation":[0,180,0],"translation":[6.57003,-2,26.0155],"scale":[1.0004,1.0004,1.0004 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation":[0,180,0],"translation":[13.43,-2,26.0005],"scale":[1.0005,1.0005,1.0005 ]
+        }
+    }
+        }
+    
+

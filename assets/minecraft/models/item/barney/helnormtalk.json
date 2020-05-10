@@ -1,0 +1,6 @@
+{
+    "parent": "item/Barney/HelNormBase",
+    "textures": {
+        "Face": "models/armor/Barney/Talk"
+    }
+}

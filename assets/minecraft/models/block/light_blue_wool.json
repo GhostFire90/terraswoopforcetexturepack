@@ -1,0 +1,19 @@
+{
+    "textures": {
+	        "particle": "blocks/maps patreon",
+        "1": "blocks/maps patreon"
+    },
+    "elements": [
+        {  "from": [ -3.0, 0.0, 1.0 ], 
+            "to": [ 19.0, 21.5, 1.0 ], 
+            "faces": {
+                "south": { "texture": "#1", "uv": [ 0.0, 0.0, 16.0, 16.0 ] }
+            }
+        }
+    ],
+    "display": {
+        "head": {
+            "scale":[ 2.8, 2.8, 2.8 ]
+        }
+    }
+}

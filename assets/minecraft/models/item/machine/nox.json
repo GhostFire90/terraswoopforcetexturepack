@@ -1,0 +1,20 @@
+{
+"__comment": "Designed by Arsenic",
+"textures": {
+    "Logo": "painting/Logo"
+},
+"elements": [ 
+{
+    "from": [ 8, 0, 0 ],
+    "to": [ 9, 16, 16 ],
+    "faces": {
+        "west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#Logo" }
+    }
+}
+],
+"display": {
+    "thirdperson_righthand": {
+        "scale": [ 3, 3, 3 ]
+    }
+}
+}

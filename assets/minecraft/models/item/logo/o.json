@@ -1,0 +1,31 @@
+{
+"__comment": "Designed by Arsenic",
+"textures": {
+    "particle": "painting/Logo",
+    "texture": "painting/Logo"
+},
+"elements": [ 
+{
+    "from": [ 4, 2, 3 ],
+    "to": [ 10, 13, 13 ],
+    "faces": {
+        "down":  { "uv": [ 10, 9.5, 7.5, 6.5 ], "texture": "#texture" },
+        "up":    { "uv": [ 6.5, 6.5, 9.5, 9.5 ], "texture": "#texture" },
+        "north": { "uv": [ 6.5, 6, 9.5, 9.5 ], "texture": "#texture" },
+        "south": { "uv": [ 6.5, 6, 9.5, 9 ], "texture": "#texture" },
+        "west":  { "uv": [ 6, 1, 10, 5.5 ], "texture": "#texture" },
+        "east":  { "uv": [ 7, 6, 10, 9.5 ], "texture": "#texture" }
+    }
+}
+],
+"display": {
+    "head": {
+        "rotation": [ 0, -90, 0 ],
+        "scale": [ 1.5, 1.5, 1.5 ]
+    },
+    "gui": {
+        "rotation": [ 0, 90, 0 ],
+        "scale": [ 1, 1, 1 ]
+    }
+}
+}
